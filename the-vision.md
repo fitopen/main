@@ -6,3 +6,5 @@ Why you’re this, the impact or change you hope to make
 **Uniting open source decentralised projects and helping them engage the wider community.
 By providing regular streamed and in person meetups, we seek to educate, overview, and workshop
 to build personal skills and drive active contributors to these ground breaking technologies.**
+
+**I'm working open because it's the way decentralisation works. People help, learn, problem solve, and build awesome things together.** 
