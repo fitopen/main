@@ -27,6 +27,6 @@ First project identified as
   * overview of decentralised technologies
   * id super fans possibly keen to further assist
   * recorded for archival
-  * schedule next date
+  * schedule next date - post Mozfest
   * build team - min 2 others
   * next venue - online/irl
