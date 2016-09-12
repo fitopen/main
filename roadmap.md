@@ -24,6 +24,10 @@ First project identified as
 4. dummy Mozfest session deliverable 14/10
   * identify session length
   *  in delivering talk on dsensor what form will this take
+    * live demo
+    * codebase overview (possible vid?)
+    * required resources
+    * consider deconstructed & interactive Mozfest style
   * overview of decentralised technologies
   * id super fans possibly keen to further assist
   * recorded for archival
