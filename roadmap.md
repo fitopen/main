@@ -26,3 +26,7 @@ First project identified as
   *  in delivering talk on dsensor what form will this take
   * overview of decentralised technologies
   * id super fans possibly keen to further assist
+  * recorded for archival
+  * schedule next date
+  * build team - min 2 others
+  * next venue - online/irl
