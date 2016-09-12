@@ -1,15 +1,9 @@
-Roadmap
+## decen.tech
 
-Milestones
-* project status goals
-* dates
-* events
-* timeframes
+## Project mission & summary
 
-Prototypes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Milestones
+## Milestones
 1. multi-channel communications
 Gitter? Slack? Something else - email, site, & github now setup 12/09/16
 2. by end of September have 2+ active contributors
