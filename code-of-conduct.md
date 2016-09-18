@@ -34,4 +34,7 @@ decen.tech organisers have the right and responsibility to remove, edit, or reje
 
 The organising team and how to contact them:
 
-David (Organiser) - Twitter: @ sw1ayfe Email: hello@decen.tech Github: @bunnybooboo
+* David (Organiser) -
+* Twitter: [@sw1ayfe](https://www.twitter.com/sw1ayfe)
+* Email: hello@decen.tech
+* Github: [@bunnybooboo](https://github.com/bunnybooboo)  
