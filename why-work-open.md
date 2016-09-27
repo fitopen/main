@@ -5,4 +5,4 @@
 
 For more info on the definition of Working Open please head over to the Mozilla wiki https://wiki.mozilla.org/Working_open
 
-or to this great article from [@openmatt](https://www.twitter.cop/openmatt) on [How to Work Open](https://openmatt.org/2011/04/06/how-to-work-open/)
+or to this great article from [@openmatt](https://www.twitter.com/openmatt) on [How to Work Open](https://openmatt.org/2011/04/06/how-to-work-open/)
