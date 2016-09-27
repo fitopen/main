@@ -4,3 +4,5 @@
 * It should also iron out issues early on. This means that not everything will work smoothly but that by having early tester with in the design of the project build that people will begin to feel more comfortable with the way things work and build confiedence in their own ability to work in the open.
 
 For more info on the definition of Working Open please head over to the Mozilla wiki https://wiki.mozilla.org/Working_open
+
+or to this great article from (@openmatt)[https://www.twitter.copm/openmatt] on How to Work Open https://openmatt.org/2011/04/06/how-to-work-open/
