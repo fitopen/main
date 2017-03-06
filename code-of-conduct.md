@@ -44,6 +44,7 @@ The organising team and how to contact them:
 * Email: hello@decen.tech
 * Github: [@bunnybooboo](https://github.com/bunnybooboo)  
 
+-----------
 This Code of Conduct was made possible through remixing of a variety of sources and my own work. In the respect of the Creative Commons licenses these works are published under please check the original works should you wish to do so.
 * [iOS Developers Slack](https://github.com/iOS-Developers-Slack/Code-Of-Conduct) CC0 1.0
 * [Django Community Code of Conduct](https://www.djangoproject.com/conduct/) CC BY 3.0
