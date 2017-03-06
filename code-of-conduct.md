@@ -5,6 +5,7 @@
 
 **Participants violating this code of conduct may be expelled from events and/or our online community spaces at the discretion of the organisers.**
 
+----------------------
 ### Long Version
 decen.tech endeavours to be a positive and safe space for all regardless of gender, gender identity or gender expression, sexual orientation, disability, physical appearance, race, age, religion, level of education, social status, political views, or place of employment.
 
