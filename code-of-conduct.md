@@ -1,7 +1,7 @@
 ## Code of Conduct
 
 ### Short Version
-```decen.tech strives to be an encouraging and safe space for all. We are collectively and individually committed to safety and inclusiveness. We insist on full respect of all our members, our speakers, their respective organisations, their source code, the organising team, our hosts and their property.```
+> decen.tech strives to be an encouraging and safe space for all. We are collectively and individually committed to safety and inclusiveness. We insist on full respect of all our members, our speakers, their respective organisations, their source code, the organising team, our hosts and their property.
 
 **Participants violating this code of conduct may be expelled from events and/or our online community spaces at the discretion of the organisers.**
 
