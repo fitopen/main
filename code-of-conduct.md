@@ -18,6 +18,9 @@ decen.tech endeavours to be a positive and safe space for all regardless of gend
 * To welcome responsible and varied forms of expression.
 * To not be rude or disrespectful.
 * To strive to resolve any disagreements for the best of the group.
+* To observe this is a collaborative time and this time can rapidly disappear.
+
+If you feel your voice has not been heard during this time of collaboration we highly suggest raising an issue here in Github. We endeavour to engage openly and transparently.
 
 decen.tech is a collaborative space for participants across the globe to learn about decentralised technologies. It is:
 * not a space to manipulate or control others
