@@ -31,6 +31,7 @@ If you feel your voice has not been heard during this time of collaboration we h
 
 #### If you experience abuse, harassment, discrimination, or feel unsafe, please let an organiser know ASAP. The matter will be dealt with in the strictest of confidence. You can do this in person, via the Meetup contact form, or via their contact information listed below.
 
+----------------
 #### Organisers responsibilities:
 decen.tech organisers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
 
