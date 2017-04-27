@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>About</title>
-</head>
-
-<body>
 <p>During a dark phase in my life, I became inspired by entrepreneurs.</p>
 
 <p>Entrepreneurs have this amazing knack of overcoming adversity. Not coming first. Recovering from failure. Struggling to get out of bed. Becoming obsessed. Until it gets done.</p>
@@ -28,7 +20,7 @@
 
 <p>We're breaking apart the traditional fitness industry model.</p>
 
-<p>Fitness is not a place you go to. Fitness is a way of life.</p>
+##Fitness is not a place you go to. Fitness is a way of life.##
 
 
 <p>David Ross - 2017</p>
