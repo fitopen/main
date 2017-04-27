@@ -20,7 +20,7 @@
 
 <p>We're breaking apart the traditional fitness industry model.</p>
 
-##Fitness is not a place you go to. Fitness is a way of life.
+## Fitness is not a place you go to. Fitness is a way of life.
 
 
 <p>David Ross - 2017</p>
