@@ -13,7 +13,7 @@
 5. Strategic Design
   - Wardley Maps https://www.youtube.com/watch?v=zUfw-2XAIBI
 
-===
+---
 
 Merged from decentech repo:
 ## decen.tech
