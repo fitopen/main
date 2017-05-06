@@ -1,3 +1,7 @@
+**DRAFT**
+
+TBD - edit to make decentech code of conduct specifically relevant to fitopen
+
 ## Code of Conduct
 
 ### Short Version
