@@ -15,6 +15,10 @@
     - Blockchain Economic Web 3.0 - especially tokenisation of value exchange https://blog.userfeeds.io/building-google-for-the-economic-web-on-the-ethereum-blockchain-de27cb3d23b
     - Call for wearables market to adopt open standards http://www.computerweekly.com/news/4500248748/Virgin-Active-CIO-calls-for-wearables-market-to-adopt-open-standards
     - ABC of Behaviour Change Theories http://www.behaviourchangetheories.com/
+    - Community building
+        - Collaborative Innovation Approach - [The Future of Membership](https://drive.google.com/file/d/0B0swicN11uhbWUVsMVVRLWtaajg/view) \#citizenshift
+        - Engaging Your Team to Collaboratively Innovate - Jeremy Scrivens [Part 1](https://www.linkedin.com/pulse/how-build-collaborative-community-innovate-sustained-culture-jeremy) [Part 2](https://www.linkedin.com/pulse/how-build-collaborative-community-innovate-sustained-culture-jeremy-6090815500621729792)
+        - [What People Don't Get About Open Source](http://www.lightreading.com/enterprise-cloud/what-people-dont-get-about-open-source/a/d-id/725461?_mc=RSS_LR_EDT)
 
 6. Visually express the plan
     - Especially after developing ideas from community & #5 Strategic Design
