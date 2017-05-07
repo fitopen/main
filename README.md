@@ -7,7 +7,6 @@ Who you’re doing it for, your audience (may be same as b)
 Why you’re this, the impact or change you hope to make
 
 Use the information you gathered in the Open Canvas exercise as a starting point. Be sure to:
-
     * Say hello! Welcome people to the project. It’s great to introduce yourself here, so people know they’re dealing with a person or group of real people. Let potential contributors know you’re excited that they’re here to learn more
     * Write a project description: what you’re doing, with who, for who, and why. Sound familiar? This is a version of your project vision. Expand your sentence as a full paragraph, adding any new details about aims and the problems you plan to solve that surfaced in the Open Canvas activity. Try to phrase this so it’s understandable and appealing to a wide variety of people, not just those in your field.
     * Explain what makes your project special, useful, exciting! You can use the ideas you generated for “Unique Value Proposition” in your Open Canvas here.
