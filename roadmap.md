@@ -21,7 +21,7 @@
 6. Ethics Policy
     - Office uses electricity from 100% renewable resources
     - Office uses gas supply includes 6% biomethane from organic matter
-    - Prioritise the use of recycled materials
+    - Prioritise recycling and the use of recycled materials
     - Actively seeks out supply chain which uses and further invests in the growth of a Circular Economy
     - Actively reduce waste where possible: TBD how this is managed
     - Committed to education: workforce, partners, social responsibility
