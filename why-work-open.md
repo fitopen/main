@@ -7,3 +7,6 @@
 For more info on the definition of Working Open please head over to the Mozilla wiki https://wiki.mozilla.org/Working_open
 
 or to this great article from [@openmatt](https://www.twitter.com/openmatt) on [How to Work Open](https://openmatt.org/2011/04/06/how-to-work-open/)
+
+**TBD**
+    - add in dicussion of obliterating black box as see in this article http://www.publicseminar.org/2017/05/is-the-u-s-becoming-a-black-box-society-under-president-trump/
