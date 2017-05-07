@@ -18,7 +18,7 @@
     - Community building
         - Collaborative Innovation Approach - [The Future of Membership](https://drive.google.com/file/d/0B0swicN11uhbWUVsMVVRLWtaajg/view) \#citizenshift
         - Engaging Your Team to Collaboratively Innovate - Jeremy Scrivens [Part 1](https://www.linkedin.com/pulse/how-build-collaborative-community-innovate-sustained-culture-jeremy) [Part 2](https://www.linkedin.com/pulse/how-build-collaborative-community-innovate-sustained-culture-jeremy-6090815500621729792)
-        - [What People Don't Get About Open Source](http://www.lightreading.com/enterprise-cloud/what-people-dont-get-about-open-source/a/d-id/725461?_mc=RSS_LR_EDT)
+        - [What People Don't Get About Open Source](http://www.enterprisecloudnews.com/author.asp?section_id=570&doc_id=725461)
 
 6. Visually express the plan
     - Especially after developing ideas from community & #5 Strategic Design
