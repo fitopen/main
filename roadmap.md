@@ -8,7 +8,7 @@
 
 3. [Code of Conduct](/code-of-conduct.md)
 
-4. [Contribution Guidelines](/contributor_guidelines.md)
+4. [Contributor Guidelines](/contributor_guidelines.md)
 
 5. Strategic Design
     - Wardley Maps https://www.youtube.com/watch?v=zUfw-2XAIBI
