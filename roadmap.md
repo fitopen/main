@@ -15,6 +15,8 @@
     - Blockchain Economic Web 3.0 - especially tokenisation of value exchange https://blog.userfeeds.io/building-google-for-the-economic-web-on-the-ethereum-blockchain-de27cb3d23b
     - Call for wearables market to adopt open standards http://www.computerweekly.com/news/4500248748/Virgin-Active-CIO-calls-for-wearables-market-to-adopt-open-standards
     - ABC of Behaviour Change Theories http://www.behaviourchangetheories.com/
+    - [Human Centred Design](https://www.fabriders.net/human-centred-design/)
+    - [Data Tactics](https://www.fabriders.net/hangout-data-tactics/)
     - Community building
         - Collaborative Innovation Approach - [The Future of Membership](https://drive.google.com/file/d/0B0swicN11uhbWUVsMVVRLWtaajg/view) \#citizenshift
         - Engaging Your Team to Collaboratively Innovate - Jeremy Scrivens [Part 1](https://www.linkedin.com/pulse/how-build-collaborative-community-innovate-sustained-culture-jeremy) [Part 2](https://www.linkedin.com/pulse/how-build-collaborative-community-innovate-sustained-culture-jeremy-6090815500621729792)
