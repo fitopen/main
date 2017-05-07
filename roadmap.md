@@ -14,6 +14,8 @@
     - Wardley Maps https://www.youtube.com/watch?v=zUfw-2XAIBI
     - Blockchain Economic Web 3.0 - especially tokenisation of value exchange https://blog.userfeeds.io/building-google-for-the-economic-web-on-the-ethereum-blockchain-de27cb3d23b
     - Call for wearables market to adopt open standards http://www.computerweekly.com/news/4500248748/Virgin-Active-CIO-calls-for-wearables-market-to-adopt-open-standards
+
+6. Ethics Policy
 ---
 
 Merged from decentech repo:
