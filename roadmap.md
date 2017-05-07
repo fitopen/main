@@ -32,27 +32,27 @@ First project identified as
 
 ## Milestones
 1. multi-channel communications
-  * Gitter?
-  * Slack?
-  * Something else?
-  * email, site, & github now setup 12/09/16
+    * Gitter?
+    * Slack?
+    * Something else?
+    * email, site, & github now setup 12/09/16
 2. by end of September have 2+ active contributors
-  * by working open it's hoped that several people will love the idea and  consider contributing locally and remotely
-  * already actived one contributor in @andyrichardson
+    * by working open it's hoped that several people will love the idea and  consider contributing locally and remotely
+    * already actived one contributor in @andyrichardson
 3. by end of September installed an testing 1st project (Dsensor) codebase
-  * already have test code 12/09/16
-  * awaiting test data
+    * already have test code 12/09/16
+    * awaiting test data
 4. dummy Mozfest session deliverable 14/10
-  * identify session length
-  * identify precise Mozfest date/time
-  *  in delivering talk on dsensor what form will this take
-    * live demo
-    * codebase overview (possible vid?)
-    * required resources
-    * consider deconstructed & interactive Mozfest style
-    * overview of decentralised technologies
-  * id super fans possibly keen to further assist
-  * recorded for archival
-  * schedule next date - post Mozfest
-  * build team - min 2 others
-  * next venue - online/irl
+    * identify session length
+    * identify precise Mozfest date/time
+    *  in delivering talk on dsensor what form will this take
+      * live demo
+      * codebase overview (possible vid?)
+      * required resources
+      * consider deconstructed & interactive Mozfest style
+      * overview of decentralised technologies
+    * id super fans possibly keen to further assist
+    * recorded for archival
+    * schedule next date - post Mozfest
+    * build team - min 2 others
+    * next venue - online/irl
