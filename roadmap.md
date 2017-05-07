@@ -35,6 +35,7 @@
     - Actively engage in methods of tokenised reward systems; for example, Open Badges
     - Determined to highlight the most effective alturistic partners: TBD effective alturism info
     - Demand a responsible pay minimum: through initiatives like Living Wage, and Universal Basic Income
+    - Where our business practices require payment we will provide routes of access to a number of financially disadvantaged and underrepresented groups
     - Wholly align with the Universal Declaration of Human Rights (UDHR)
     - Invest in business models which reflect nature
     - Promote the use of and investment in Open Science
