@@ -1,3 +1,5 @@
+**DRAFT**
+
 ## Roadmap
 1. Manifesto
     - something along the lines of https://twitter.com/JeniT/status/858260867435069440
@@ -17,43 +19,28 @@
     - Call for wearables market to adopt open standards http://www.computerweekly.com/news/4500248748/Virgin-Active-CIO-calls-for-wearables-market-to-adopt-open-standards
 
 6. Ethics Policy
+    - Office uses electricity from 100% renewable resources
+    - Office uses gas supply includes 6% biomethane from organic matter
+    - Prioritise the use of recycled materials
+    - Actively seeks out supply chain which uses and further invests in the growth of a Circular Economy
+    - Actively reduce waste where possible: TBD how this is managed
+    - Committed to education: workforce, partners, social responsibility
+    - Committed to the physical and mental health of our network
+    - Outward global momentum
+    - Committed to the advancement of Open Web standards
+    - Committed to working in the open as a means to assure full transparency
+    - Actively engage in methods of tokenised reward systems; for example, Open Badges
+    - Determined to highlight the most effective alturistic partners: TBD effective alturism info
+    - Demand a responsible pay minimum: through initiatives like Living Wage, and Universal Basic Income
+    - TBD further work needed here
+
+7. Diversity Policy
+    - Actively seek and promote a diverse workforce
+    - Only work with partners holding an active Diversity Policy
+    - Commit to only speaking at events upholding strong diversity standards
+
+8. Privacy Policy
+
+9. Data Policy
 ---
-
-Merged from decentech repo:
-## decen.tech
-
-## Project mission & summary
-Uniting open source decentralised projects and helping them engage the wider community.
-By providing regular streamed and in person meetups, we seek to educate, overview, and workshop
-to build personal skills and drive active contributors to these ground breaking technologies.
-
-Operating like a bookclub we will focus on a new technology each week. In person and remotely people it's hoped we can actively engage the community right where they are.
-First project identified as
-[dsensor](http://dsensor.org/) from @aboynejames
-
 ## Milestones
-1. multi-channel communications
-    * Gitter?
-    * Slack?
-    * Something else?
-    * email, site, & github now setup 12/09/16
-2. by end of September have 2+ active contributors
-    * by working open it's hoped that several people will love the idea and  consider contributing locally and remotely
-    * already actived one contributor in @andyrichardson
-3. by end of September installed an testing 1st project (Dsensor) codebase
-    * already have test code 12/09/16
-    * awaiting test data
-4. dummy Mozfest session deliverable 14/10
-    * identify session length
-    * identify precise Mozfest date/time
-    *  in delivering talk on dsensor what form will this take
-        * live demo
-        * codebase overview (possible vid?)
-        * required resources
-        * consider deconstructed & interactive Mozfest style
-        * overview of decentralised technologies
-    * id super fans possibly keen to further assist
-    * recorded for archival
-    * schedule next date - post Mozfest
-    * build team - min 2 others
-    * next venue - online/irl
