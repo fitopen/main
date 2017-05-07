@@ -17,10 +17,11 @@
     - Wardley Maps https://www.youtube.com/watch?v=zUfw-2XAIBI
     - Blockchain Economic Web 3.0 - especially tokenisation of value exchange https://blog.userfeeds.io/building-google-for-the-economic-web-on-the-ethereum-blockchain-de27cb3d23b
     - Call for wearables market to adopt open standards http://www.computerweekly.com/news/4500248748/Virgin-Active-CIO-calls-for-wearables-market-to-adopt-open-standards
+    - ABC of Behaviour Change Theories http://www.behaviourchangetheories.com/
 
 6. Ethics Policy
-    - Office uses electricity from 100% renewable resources
-    - Office uses gas supply includes 6% biomethane from organic matter
+    - London Office uses electricity from 100% renewable resources
+    - London Office uses gas supply includes 6% biomethane from organic matter
     - Prioritise recycling and the use of recycled materials
     - Actively seeks out supply chain which uses and further invests in the growth of a Circular Economy
     - Actively reduce waste where possible: TBD how this is managed
@@ -32,7 +33,7 @@
     - Actively engage in methods of tokenised reward systems; for example, Open Badges
     - Determined to highlight the most effective alturistic partners: TBD effective alturism info
     - Demand a responsible pay minimum: through initiatives like Living Wage, and Universal Basic Income
-    - TBD further work needed here
+    - TBD further work needed here; especially aligned bodies
 
 7. Diversity Policy
     - Actively seek and promote a diverse workforce
