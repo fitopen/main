@@ -30,7 +30,7 @@
     - Committed to education: workforce, partners, social responsibility
     - Committed to the physical and mental health of our network
     - Outward global momentum
-    - Committed to the advancement of Open Web standards
+    - Committed to the advancement of Open Web; through the advancement of standards, promotion of open source software, investment in these(through time, money, and the development of networks)
     - Committed to working in the open as a means to assure full transparency
     - Actively engage in methods of tokenised reward systems; for example, Open Badges
     - Determined to highlight the most effective alturistic partners: TBD effective alturism info
