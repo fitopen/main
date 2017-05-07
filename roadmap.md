@@ -7,6 +7,7 @@
 
 3. Code of Conduct
     - potentially a fork of this one I did https://github.com/decentech/main/blob/master/code-of-conduct.md
+    - merged the above doc into main; further work required to reflect this specific use case
 
 4. Contribution Guidelines
 
