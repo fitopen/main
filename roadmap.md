@@ -19,7 +19,9 @@
     - Call for wearables market to adopt open standards http://www.computerweekly.com/news/4500248748/Virgin-Active-CIO-calls-for-wearables-market-to-adopt-open-standards
     - ABC of Behaviour Change Theories http://www.behaviourchangetheories.com/
 
-6. Ethics Policy
+6. Visually express the plan
+
+7. Ethics Policy
     - London Office uses electricity from 100% renewable resources
     - London Office uses gas supply includes 6% biomethane from organic matter
     - Prioritise recycling and the use of recycled materials
@@ -35,13 +37,13 @@
     - Demand a responsible pay minimum: through initiatives like Living Wage, and Universal Basic Income
     - TBD further work needed here; especially aligned bodies
 
-7. Diversity Policy
+8. Diversity Policy
     - Actively seek and promote a diverse workforce
     - Only work with partners holding an active Diversity Policy
     - Commit to only speaking at events upholding strong diversity standards
 
-8. Privacy Policy
+9. Privacy Policy
 
-9. Data Policy
+10. Data Policy
 ---
 ## Milestones
