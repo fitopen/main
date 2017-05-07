@@ -46,11 +46,11 @@ First project identified as
     * identify session length
     * identify precise Mozfest date/time
     *  in delivering talk on dsensor what form will this take
-      * live demo
-      * codebase overview (possible vid?)
-      * required resources
-      * consider deconstructed & interactive Mozfest style
-      * overview of decentralised technologies
+        * live demo
+        * codebase overview (possible vid?)
+        * required resources
+        * consider deconstructed & interactive Mozfest style
+        * overview of decentralised technologies
     * id super fans possibly keen to further assist
     * recorded for archival
     * schedule next date - post Mozfest
