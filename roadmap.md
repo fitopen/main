@@ -1,7 +1,7 @@
 **DRAFT**
 
 ## Roadmap
-1. Manifesto
+1. [Manifesto](/manifesto.md)
     - something along the lines of https://twitter.com/JeniT/status/858260867435069440
 
 2. Working Open
