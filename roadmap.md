@@ -1,4 +1,4 @@
-**DRAFT**
+**DRAFT DOCUMENT**
 
 ## Roadmap
 1. [Manifesto](/manifesto.md)
