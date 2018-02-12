@@ -7,18 +7,18 @@
   - [ ] complete
 
 2. [Working Open](/why-work-open.md)
-  - [ ] template
+  - [x] template
   - [ ] draft
   - [ ] complete
     - running alongside https://mozilla.github.io/open-leadership-training-series/
 
 3. [Code of Conduct](/code-of-conduct.md)
-  - [ ] template
+  - [x] template
   - [ ] draft
   - [ ] complete
 
 4. [Contributor Guidelines](/contributor_guidelines.md)
-  - [ ] template
+  - [x] template
   - [ ] draft
   - [ ] complete
 
