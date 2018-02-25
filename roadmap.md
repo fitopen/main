@@ -44,8 +44,9 @@
     - Especially after developing ideas from community & #5 Strategic Design
     - Key milestones:
         - [ ] register as official Community Interest Company (CIC)
-            https://en.wikipedia.org/wiki/Community_interest_company
-            https://www.fourthsector.net/
+            - https://en.wikipedia.org/wiki/Community_interest_company
+            - https://en.wikipedia.org/wiki/Social_enterprise#United_Kingdom
+            - https://www.fourthsector.net/
         - [ ] `discoverability`
         - [ ] `community` (aligned with `properties`) <->
           - [ ] `social` implement Mastodon via social.fitopen.org (ETA April/May)
