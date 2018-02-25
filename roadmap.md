@@ -43,7 +43,7 @@
   - [ ] complete
     - Especially after developing ideas from community & #5 Strategic Design
     - Key milestones:
-        - `community` (aligned with `properties`) <->
+        - [ ] `community` (aligned with `properties`) <->
         - `psychology` (desire, success, failure, motivation, happiness, vanity) ->
         - `influence` ->
         - `recommendation` ->
