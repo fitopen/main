@@ -44,23 +44,23 @@
     - Especially after developing ideas from community & #5 Strategic Design
     - Key milestones:
         - [ ] `community` (aligned with `properties`) <->
-        - `psychology` (desire, success, failure, motivation, happiness, vanity) ->
-        - `influence` ->
-        - `recommendation` ->
-        - `education` ->
-        - `authorities` (Govt guidelines, GP referrals, understanding illness)
-        - `current state` <-
-        - `personal goals` <-
-        - `action` <->
-        - `properties` (local business, personal trainer/coach, nutritionist, dietitian, psych, neuroscience, sport science, bioengineering ) <->
-        - `facilities` (location, ownership, services, local groups, cost, access, changing, water etc.) <->
-        - `calendar` <->
-        - `group buy-in` ->
-        - `payments` <->
-        - `bookings` <->
-        - `product` reviews, promotions <->
-        - `content` <->
-        - `api` - 3rd party?(weather, wearable, sensors/IoT, open data, geo, SSO)
+        - [ ] `psychology` (desire, success, failure, motivation, happiness, vanity) ->
+        - [ ] `influence` ->
+        - [ ] `recommendation` ->
+        - [ ] `education` ->
+        - [ ] `authorities` (Govt guidelines, GP referrals, understanding illness)
+        - [ ] `current state` <-
+        - [ ] `personal goals` <-
+        - [ ] `action` <->
+        - [ ] `properties` (local business, personal trainer/coach, nutritionist, dietitian, psych, neuroscience, sport science, bioengineering ) <->
+        - [ ] `facilities` (location, ownership, services, local groups, cost, access, changing, water etc.) <->
+        - [ ] `calendar` <->
+        - [ ] `group buy-in` ->
+        - [ ] `payments` <->
+        - [ ] `bookings` <->
+        - [ ] `product` reviews, promotions <->
+        - [ ] `content` <->
+        - [ ] `api` - 3rd party?(weather, wearable, sensors/IoT, open data, geo, SSO)
 
 7. [Ethics Policy](/ethics_policy.md)
   - [x] template
