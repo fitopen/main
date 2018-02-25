@@ -43,7 +43,9 @@
   - [ ] complete
     - Especially after developing ideas from community & #5 Strategic Design
     - Key milestones:
+        - [ ] `discoverability`
         - [ ] `community` (aligned with `properties`) <->
+          - [ ] `social` implement Mastodon via social.fitopen.org (ETA April/May)
         - [ ] `psychology` (desire, success, failure, motivation, happiness, vanity) ->
         - [ ] `influence` ->
         - [ ] `recommendation` ->
