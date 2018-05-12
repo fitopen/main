@@ -17,7 +17,7 @@ Version 1.0
   * Marital status
   * Sex
   * Sexual orientation
-  * Phyiscal appearance
+  * Physical appearance
   * Native language
   * Age
   * Ability
@@ -43,8 +43,6 @@ Version 1.0
 * celebrate diversity of the collective.
 * understand that this a collaborative space for the positive promotion of healthy human activities.
 
-If you feel your voice has not been heard during this time of collaboration we highly suggest raising an issue here in Github. We endeavour to engage openly and transparently.
-
 **'Fit Open' is a collaborative space for participants across the globe to discover and celebrate outdoor fitness & endurance sports.**
 
 It is:
@@ -58,7 +56,7 @@ It is:
 
 #### If you experience abuse, harassment, discrimination, or feel unsafe, please let an organiser/admin know ASAP. The matter will be dealt with in the strictest of confidence.
 
-You can do this in person, via the event ticketing contact form, reporting content and individuals in Mastodon, or via their contact information listed below.
+You can do this in person, via the event ticketing contact form, reporting content and individuals in Mastodon, or via organisers/admin contact information listed below.
 
 ----------------
 #### Organisers responsibilities:
@@ -66,6 +64,7 @@ You can do this in person, via the event ticketing contact form, reporting conte
 
 'Fit Open' organisers/admin have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned to this Code of Conduct. This could include temporarily or permanently banning any person for any behaviours that organisers deem inappropriate, rude, threatening, offensive, or harmful, from the events and/or the online community.
 
+#### Contact
 The organising team and how to contact them:
 
 * David Ross (Organiser)
