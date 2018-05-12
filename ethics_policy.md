@@ -19,4 +19,5 @@
   - Invest in business models which reflect nature
   - Promote the use of and investment in Open Science
   - Demand a sustainable work/life balance
+  - Dedicated to maximising social impact above profit
   - TBD further work needed here; especially aligned bodies
