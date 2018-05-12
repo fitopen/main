@@ -1,14 +1,14 @@
 ## Fit Open Code of Conduct
-Version 0.2.0
+Version 1.0
 
 ### Short Version
-> Fit Open strives to be an encouraging and safe space for all. We are individually and collectively committed to safety, inclusiveness, and excellence. We insist on full respect of all our members, our guests, their respective organisations, their source code, the organising team, our hosts and their property.
+> 'Fit Open' strives to be an encouraging and safe space for all. We are individually and collectively committed to safety, inclusiveness, and excellence. We insist on full respect of all our members, our guests, their respective organisations, their source code, the organising team, our hosts and their property.
 
-**Participants violating this code of conduct may be expelled from events and/or our online community spaces at the discretion of the organisers.**
+**Participants violating this code of conduct may be expelled from events and/or our online community spaces at the discretion of the organisers/admin.**
 
 ----------------------
 ### Long Version
-Fit Open endeavours to be a positive and safe space for all regardless of the following axes:
+'Fit Open' endeavours to be a positive and safe space for all regardless of the following axes:
 
   * Background
   * Family status
@@ -53,7 +53,7 @@ It is:
 * NOT the audience to listen to your personal political views.
 * NOT a space to sell your things or push your platform.
 * NOT beholden to any external party.
-* FOR the creation for the building, maintenance, and benefit of Fit Open on behalf of its collective members.
+* FOR the creation for the building, maintenance, and benefit of 'Fit Open' on behalf of its collective members.
 * FOR action towards a registration as a social enterprise for the benefit of its collective members.
 
 #### If you experience abuse, harassment, discrimination, or feel unsafe, please let an organiser/admin know ASAP. The matter will be dealt with in the strictest of confidence.
@@ -62,9 +62,9 @@ You can do this in person, via the event ticketing contact form, reporting conte
 
 ----------------
 #### Organisers responsibilities:
-Fit Open organisers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
+'Fit Open' organisers/admin are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
 
-Fit Open organisers have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned to this Code of Conduct. This could include temporarily or permanently banning any person for any behaviours that organisers deem inappropriate, rude, threatening, offensive, or harmful, from the events and/or the online community.
+'Fit Open' organisers/admin have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned to this Code of Conduct. This could include temporarily or permanently banning any person for any behaviours that organisers deem inappropriate, rude, threatening, offensive, or harmful, from the events and/or the online community.
 
 The organising team and how to contact them:
 
@@ -76,7 +76,7 @@ The organising team and how to contact them:
 
 #### Escalation Process
 
-Fit Open organisers and admin will observe the following escalation process once a matter is brought to our attention:
+'Fit Open' organisers and admin will observe the following escalation process once a matter is brought to our attention:
 1. NOTIFY - if reported matter is agreed to breach our Code of Conduct, notify the individual or group when they must cease the reported behaviour.
 2. BREATHE - provide an appropriate amount of time for the individual or group to change their behaviour.
 3. REMOVE - if content output is deemed to break our Code of Conduct, seek its timely removal.
