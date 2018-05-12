@@ -14,8 +14,8 @@
 
 3. [Code of Conduct](/code-of-conduct.md)
   - [x] template
-  - [ ] draft
-  - [ ] complete
+  - [x] draft
+  - [x] complete - Version 1.0
 
 4. [Contributor Guidelines](/contributor_guidelines.md)
   - [x] template
@@ -49,7 +49,7 @@
             - https://www.fourthsector.net/
         - [ ] `discoverability`
         - [ ] `community` (aligned with `properties`) <->
-          - [ ] `social` implement Mastodon via social.fitopen.org (ETA April/May)
+          - [x] `social` implement Mastodon via social.fitopen.org (ETA April/May)
         - [ ] `psychology` (desire, success, failure, motivation, happiness, vanity) ->
         - [ ] `influence` ->
         - [ ] `recommendation` ->
@@ -70,7 +70,7 @@
 
 7. [Ethics Policy](/ethics_policy.md)
   - [x] template
-  - [ ] draft
+  - [x] draft
   - [ ] complete
 
 8. Diversity Policy
