@@ -1,13 +1,13 @@
 ## Fit Open Code of Conduct
-Version 1.0
+Version 1.1
 
-### Short Version
+### tl;dr
 > 'Fit Open' strives to be an encouraging and safe space for all. We are individually and collectively committed to safety, inclusiveness, and excellence. We insist on full respect of all our members, our guests, their respective organisations, their source code, the organising team, our hosts and their property.
 
 **Participants violating this code of conduct may be expelled from events and/or our online community spaces at the discretion of the organisers/admin.**
 
 ----------------------
-### Long Version
+### Detailed Version
 'Fit Open' endeavours to be a positive and safe space for all regardless of the following axes:
 
   * Background
@@ -18,30 +18,35 @@ Version 1.0
   * Sex
   * Sexual orientation
   * Physical appearance
+  * Body size & shape
   * Native language
   * Age
   * Ability
+  * Experience level
   * Race and/or ethnicity
   * National origin
   * Socioeconomic status
   * Education level
   * Place of employment, membership, or affiliation
   * Religion
+  * Political identity
+  * Diet
   * Geographic location
   * Any other dimension of diversity
 
 #### As a participant of this community and events, you agree to:
-* individually and collectively commit to safety and inclusivity.
-* observe a zero tolerance for abuse, harassment, or discrimination.
-* respect people’s boundaries and identities.
-* refrain from using language that can be considered rude, divisory, or inappropriate.
-* avoid using offensive topics as a form of humour.
-* not be rude or disrespectful.
-* encourage people to learn, grow, thrive, and excel.
-* welcome responsible and varied forms of expression.
-* strive to resolve any disagreements for the best of the group.
-* celebrate diversity of the collective.
-* understand that this a collaborative space for the positive promotion of healthy human activities.
+  * individually and collectively commit to safety and inclusivity.
+  * observe a zero tolerance for abuse, harassment, or discrimination.
+  * respect people’s boundaries and identities.
+  * refrain from using language that can be considered rude, divisory, or inappropriate.
+  * avoid using offensive topics as a form of humour.
+  * welcome participation from every size.
+  * not be rude or disrespectful.
+  * encourage people to learn, grow, thrive, and excel.
+  * welcome responsible and varied forms of expression.
+  * strive to resolve any disagreements for the best of the group.
+  * celebrate diversity of the collective.
+  * understand that this a collaborative space for the positive promotion of healthy human activities.
 
 **'Fit Open' is a collaborative space for participants across the globe to discover and celebrate outdoor fitness & endurance sports.**
 
