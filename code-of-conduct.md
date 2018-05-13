@@ -1,13 +1,13 @@
 ## Fit Open Code of Conduct
-Version 1.0
+Version 1.1
 
-### Short Version
+### tl;dr
 > 'Fit Open' strives to be an encouraging and safe space for all. We are individually and collectively committed to safety, inclusiveness, and excellence. We insist on full respect of all our members, our guests, their respective organisations, their source code, the organising team, our hosts and their property.
 
 **Participants violating this code of conduct may be expelled from events and/or our online community spaces at the discretion of the organisers/admin.**
 
 ----------------------
-### Long Version
+### Detailed Version
 'Fit Open' endeavours to be a positive and safe space for all regardless of the following axes:
 
   * Background
