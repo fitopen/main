@@ -1,4 +1,4 @@
-<li>Political identity</li>## Fit Open Code of Conduct
+## Fit Open Code of Conduct
 Version 1.2
 
 ### tl;dr
