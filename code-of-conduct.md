@@ -1,5 +1,5 @@
-## Fit Open Code of Conduct
-Version 1.1
+<li>Political identity</li>## Fit Open Code of Conduct
+Version 1.2
 
 ### tl;dr
 > 'Fit Open' strives to be an encouraging and safe space for all. We are individually and collectively committed to safety, inclusiveness, and excellence. We insist on full respect of all our members, our guests, their respective organisations, their source code, the organising team, our hosts and their property.
@@ -29,7 +29,6 @@ Version 1.1
   * Education level
   * Place of employment, membership, or affiliation
   * Religion
-  * Political identity
   * Diet
   * Geographic location
   * Any other dimension of diversity
